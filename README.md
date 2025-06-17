@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tositon-opendeepsearch-badge.png)](https://mseep.ai/app/tositon-opendeepsearch)
+
 # OpenDeepSearch
 
 An open-source alternative to Perplexity Deep Research using the Model Context Protocol (MCP).
